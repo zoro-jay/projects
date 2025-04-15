@@ -32,13 +32,6 @@ MySQL Server
 
 An IDE like IntelliJ IDEA, Eclipse, or NetBeans
 
-Setup Steps
-Clone the Repository
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/tender-management-system.git
 Database Configuration
 
 Create a MySQL database (example: tender_management).
